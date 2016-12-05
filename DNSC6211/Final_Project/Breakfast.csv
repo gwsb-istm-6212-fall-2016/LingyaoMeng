@@ -1,0 +1,967 @@
+,Name,StreetAddress,City,State,Zip,Phone,NumberofReviews,Rating,PriceRanges
+0,A Baked Joint,None,Washington, ,20001,(202) 408-6985,511,4.5,$
+1,Wicked Waffle,None,Washington, ,20006,(202) 944-2700,657,4.0,$
+2,Moxie’s,None,Washington, ,20036,(202) 846-1479,39,4.5,$
+3,Founding Farmers DC,None,Washington, ,20006,(202) 822-8783,8422,4.0,$$
+4,Tabard Inn Restaurant,None,Washington, ,20036,(202) 331-8528,1366,4.0,$$
+5,Busboys and Poets,None,Washington, ,20009,(202) 387-7638,1585,4.0,$$
+6,Highlands,None,Washington, ,20011,(202) 829-6200,297,4.0,$
+7,Old Ebbitt Grill,None,Washington, ,20005,(202) 347-4800,4953,4.0,$$
+8,Brick Lane,None,Washington, ,20009,(202) 525-5309,100,4.0,$$
+9,City Place Cafe,None,Washington, ,20036,(202) 466-4665,119,4.5,$
+10,Ted’s Bulletin,None,Washington, ,20003,(202) 544-8337,1494,4.0,$$
+11,Farmers Fishers Bakers,None,Washington, ,20007,(202) 298-8783,1816,4.0,$$
+12,Sidamo Coffee and Tea,None,Washington, ,20002,(202) 548-0081,343,4.5,$
+13,Tony’s Breakfast,None,Washington, ,20002,(202) 397-7750,134,4.0,$
+14,Nerds & Nibblers,None,Washington, ,20005,(202) 331-3213,62,3.5,$
+15,Mulebone,None,Washington, ,20009,(202) 332-9672,185,4.0,$$
+16,Birch & Barley,None,Washington, ,20005,(202) 567-2576,917,4.0,$$$
+17,Sunrise Cafe,None,Washington, ,20036,(202) 463-0032,104,4.0,$
+18,Barrel,None,Washington, ,20003,(202) 543-3622,415,4.0,$$
+19,Busboys and Poets,None,Washington, ,20001,(202) 789-2227,994,4.0,$$
+20,Market Lunch,None,Washington, ,20003,(202) 547-8444,253,4.0,$$
+21,Creperie,None,Washington, ,20005,,31,4.0,$
+22,USDA Cafeteria,None,Washington, ,20250,(202) 720-6799,12,5.0,$
+23,Lot 38 Espresso Bar,None,Washington, ,20003,(202) 758-0677,144,4.5,$
+24,Red Derby,None,Washington, ,20010,(202) 291-5000,463,4.0,$
+25,Pineapple & Pearls,None,Washington, ,20003,(202) 595-7375,99,4.5,$$$$
+26,Beef N Bread,None,Washington, ,20001,(202) 393-0406,200,4.5,$
+27,Carving Room,None,Washington, ,20001,(202) 525-2116,239,4.0,$$
+28,Bagels Etc.,None,Washington, ,20037,(202) 466-7171,256,4.0,$
+29,Bistro Bohem,None,Washington, ,20001,(202) 735-5895,265,4.0,$$
+30,Uni Bistro,None,Washington, ,20002,(202) 675-2011,34,4.5,$$
+31,Bread Furst,None,Washington, ,20008,(202) 765-1200,240,3.5,$$
+32,Cafe Carvy,None,Washington, ,20036,(202) 223-1981,71,4.0,$
+33,The Riggsby,None,Washington, ,20009,(202) 787-1500,145,4.0,$$$
+34,Pleasant Pops,None,Washington, ,20005,(202) 347-0938,37,4.0,$
+35,Murry & Paul’s Restaurant,None,Washington, ,20017,(202) 529-4078,61,4.0,$
+36,Universal Doughnuts,None,Washington, ,20009,(202) 483-0600,28,4.0,$
+37,Sally’s Middle Name,None,Washington, ,20002,(202) 750-6529,102,4.0,$$$
+38,Bethesda Bagels,None,Washington, ,20009,(202) 299-9399,296,4.0,$
+39,Beuchert’s Saloon,None,Washington, ,20003,(202) 733-1384,236,4.0,$$
+40,Jimmy T’s Place,None,Washington, ,20003,,151,4.0,$
+41,The Lafayette,None,Washington, ,20006,(202) 638-2570,59,4.0,$$$$
+42,Tony’s Place,None,Washington, ,20011,(202) 829-0721,33,4.0,$
+43,Commissary,None,Washington, ,20005,(202) 299-0018,801,3.5,$$
+44,Firefly,None,Washington, ,20036,(202) 861-1310,859,3.5,$$
+45,Level One,None,Washington, ,20009,(202) 745-0025,311,3.5,$$
+46,The Coupe,None,Washington, ,20010,(202) 290-3342,681,3.5,$$
+47,Pansaari,None,Washington, ,20009,(202) 847-0115,105,4.0,$$
+48,"Red, White and Basil",None,Washington, ,20009,(202) 839-3068,108,3.5,$$
+49,Uptowner Cafe,None,Washington, ,20037,(202) 775-0520,83,3.5,$
+50,Galley Cafe,None,Washington, ,20036,(202) 939-0263,18,4.5,$
+51,Pete’s Diner,None,Washington, ,20003,(202) 544-7335,202,3.5,$
+52,Kramerbooks & Afterwords Cafe,None,Washington, ,20036,(202) 387-1462,1480,3.5,$$
+53,BlackSalt,None,Washington, ,20007,(202) 342-9101,745,4.0,$$$
+54,Martin’s Tavern,None,Washington, ,20007,(202) 333-7370,396,3.5,$$
+55,NuVegan Café,None,Washington, ,20001,(202) 232-1700,591,4.5,$$
+56,Scion Restaurant,None,Washington, ,20037,(202) 833-8899,571,3.5,$$
+57,Cafe Kimchi,None,Washington, ,20003,(202) 847-3269,116,4.0,$
+58,Pret A Manger,None,Washington, ,20006,(202) 403-2992,158,4.0,$
+59,Bread & Chocolate,None,Washington, ,20037,(202) 833-8360,207,3.0,$$
+60,Coppi’s Organic Restaurant,None,Washington, ,20008,(202) 966-0770,75,4.0,$$
+61,Slim’s Diner,None,Washington, ,20011,(202) 783-0699,142,3.0,$$
+62,Belga Cafe,None,Washington, ,20003,(202) 544-0100,880,3.5,$$
+63,Policy,None,Washington, ,20009,(202) 387-7654,589,3.5,$$
+64,Kapnos,None,Washington, ,20009,(202) 234-5000,547,4.0,$$$
+65,Cafe Deluxe,None,Washington, ,20016,(202) 686-2233,271,3.5,$$
+66,Luna Grill & Diner,None,Washington, ,20036,(202) 835-2280,427,3.5,$$
+67,Busboys and Poets,None,Washington, ,20017,(202) 636-7230,116,3.5,$$
+68,Crepe Lena,None,Washington, ,20002,(571) 331-3926,36,3.5,$
+69,Beacon Bar and Grill,None,Washington, ,20036,(202) 753-4378,591,3.5,$$
+70,Firehook Bakery,None,Washington, ,20003,(888) 580-0745,75,3.5,$
+71,Osman & Joe’s Steak ‘n Egg Kitchen,None,Washington, ,20016,(202) 686-1201,302,3.5,$
+72,Ardeo + Bardeo,None,Washington, ,20008,(202) 244-6750,396,3.5,$$$
+73,Teaism Penn Quarter,None,Washington, ,20004,(202) 638-6010,626,3.5,$$
+74,Cafe Lombardy,None,Washington, ,20006,(202) 828-2600,15,4.0,$$
+75,Greek Deli & Catering,None,Washington, ,20036,(202) 296-2111,442,4.5,$
+76,Creme Restaurant and Bar,None,Washington, ,20009,(202) 234-1884,95,3.5,$$
+77,Pret A Manger,None,Washington, ,20533,(202) 559-8000,59,4.0,$
+78,Le Pain Quotidien - Georgetown,None,Washington, ,20007,(202) 315-5420,298,3.5,$$
+79,Station 4,None,Washington, ,20024,(202) 488-0987,492,3.0,$$
+80,Graffiato,None,Washington, ,20001,(202) 289-3600,1312,3.5,$$$
+81,L’Hommage Bistro Francais,None,Washington, ,20001,(202) 791-0916,108,3.5,$$
+82,First Cup Cafe,None,Washington, ,20001,(202) 289-4601,114,3.0,$
+83,Veloce by Pizzeria Paradiso,None,Washington, ,20036,(202) 290-1910,42,3.5,$
+84,Bullfrog Bagels,None,Washington, ,20002,(202) 494-5615,124,3.5,$
+85,Madhatter,None,Washington, ,20036,(202) 833-1495,751,3.0,$$
+86,Bidwell,None,Washington, ,20002,(202) 547-0172,169,3.5,$$
+87,Café du Parc,None,Washington, ,20004,(202) 942-7000,243,3.5,$$$
+88,Pret A Manger,None,Washington, ,20002,(202) 289-0186,68,4.0,$
+89,Bar Charley,None,Washington, ,20009,(202) 627-2183,195,3.5,$$
+90,Boxcar Tavern,None,Washington, ,20003,(202) 544-0518,158,3.5,$$
+91,Pearl Dive Oyster Palace,None,Washington, ,20009,(202) 319-1612,623,4.0,$$
+92,Abe’s Cafe,None,Washington, ,20005,(202) 791-0307,16,3.5,$$
+93,Tony’s Place,None,Washington, ,20050,(202) 678-6633,7,4.5,$
+94,Pret A Manger,None,Washington, ,20006,(202) 689-1982,44,4.5,$
+95,Le Pain Quotidien - Dupont Circle,None,Washington, ,20036,(202) 459-9176,286,3.0,$$
+96,Cafe Berlin,None,Washington, ,20002,(202) 543-7656,283,3.5,$$
+97,Et Voila,None,Washington, ,20016,(202) 237-2300,175,4.0,$$$
+98,Piassa Ethiocuisine & Cafe,None,Washington, ,20001,(202) 765-1288,17,4.0,$$
+99,Bourbon Coffee,None,Washington, ,20003,(202) 836-4799,44,3.5,$
+100,Range,None,Washington, ,20015,(202) 803-8020,618,3.5,$$$
+101,Busboys and Poets,None,Washington, ,20012,(202) 726-0856,101,3.5,$$
+102,Malmaison,None,Washington, ,20007,(202) 817-3340,161,3.0,$$
+103,Sip of Seattle,None,Washington, ,20001,(202) 393-5058,57,4.0,$
+104,G Street Food,None,Washington, ,20005,(202) 842-8484,87,3.5,$
+105,RedRocks Columbia Heights,None,Washington, ,20010,(202) 506-1402,510,3.5,$$
+106,Le Pain Quotidien - Penn Quarter,None,Washington, ,20004,(202) 499-4123,160,3.0,$$
+107,J Paul’s,None,Washington, ,20007,(202) 333-3450,384,3.0,$$
+108,Le Pain Quotidien - 17th Street,None,Washington, ,20006,(202) 688-0341,99,3.5,$$
+109,The Grilled Oyster Company,None,Washington, ,20016,(202) 362-1719,39,4.0,$$$
+110,La Jambe,None,Washington, ,20001,(202) 627-2988,36,4.5,$$
+111,Mangialardo,None,Washington, ,20003,(202) 543-6212,198,4.5,$
+112,Cosmo Cafe,None,Washington, ,20024,(202) 554-4040,48,2.5,$$
+113,Flying Fish Coffee & Tea,None,Washington, ,20009,(202) 299-0141,137,3.5,$
+114,CF Folks Restaurant,None,Washington, ,20036,(202) 293-0162,65,4.0,$$
+115,Chupacabra - Temp. CLOSED,None,Washington, ,20002,(202) 505-4628,130,3.5,$$
+116,Pret A Manger,None,Washington, ,20004,(202) 464-2791,117,3.5,$
+117,Bunna Ethiopian Cafe,None,Washington, ,20005,(202) 827-4952,27,4.5,$$
+118,Circle Bistro,None,Washington, ,20037,(202) 293-5390,98,3.5,$$$
+119,Pimento Grill,None,Washington, ,20019,(202) 582-6595,138,4.0,$$
+120,Bruegger’s Bagels,None,Washington, ,20004,(202) 393-1663,89,3.5,$
+121,Logan Tavern,None,Washington, ,20005,(202) 332-3710,589,3.5,$$
+122,New World Cafe,None,Washington, ,20001,(202) 842-0045,14,3.0,$
+123,Casey’s Coffee,None,Washington, ,20037,(202) 223-4762,36,2.5,$
+124,Woodley Cafe,None,Washington, ,20008,(202) 332-5773,244,2.5,$$
+125,Rito Loco Restaurant,None,,None,None,(202) 836-4270,79,3.5,$
+126,Pupuseria San Miguel,None,Washington, ,20010,(202) 387-5410,30,4.0,$
+127,Smoked & Stacked,None,Washington, ,20001,(202) 465-4822,44,3.5,$$
+128,Rumba Cafe,None,Washington, ,20009,(202) 588-5501,180,3.5,$$
+129,Cafe Cozy Corner,None,Washington, ,20001,(202) 842-3040,56,3.5,$
+130,Kafe Leopold,None,Washington, ,20007,(202) 965-6005,1001,3.5,$$
+131,Carvings,None,Washington, ,20006,(202) 994-8844,42,3.0,$
+132,Dirty Habit,None,Washington, ,20004,(202) 783-6060,33,4.0,$$$
+133,Republic Kolache,None,Washington, ,20001,(202) 888-2813,13,4.0,$
+134,Au Bon Pain,None,Washington, ,20005,(202) 842-2467,44,3.5,$
+135,Java House,None,Washington, ,20009,(202) 387-6622,122,3.0,$
+136,Tupelo Honey Cafe,None,Arlington, ,22201,(703) 253-8140,544,4.0,$$
+137,Ted’s Bulletin,None,Washington, ,20009,(202) 265-8337,898,4.0,$$
+138,Open City,None,Washington, ,20008,(202) 332-2331,1275,3.5,$$
+139,Bruegger’s Bagels,None,Washington, ,20007,(202) 338-1414,55,3.0,$
+140,Twisted Horn,None,Washington, ,20011,(202) 290-1808,22,3.5,$$
+141,Hilton Honors Capital Hilton Executive Lounge,None,Washington, ,20036,(202) 393-1000,2,5.0,$
+142,Canal Café - CLOSED,None,Washington, ,20007,(202) 333-3191,6,3.0,
+143,Capitol Grounds Coffee,None,Washington, ,20037,(202) 293-2057,28,3.0,$
+144,Corner Bakery Cafe,None,Washington, ,20001,(202) 697-5250,85,3.0,$
+145,Buffalo & Bergen,None,Washington, ,20002,(202) 543-2549,122,3.0,$$
+146,Pret A Manger,None,Washington, ,20006,(202) 857-7945,62,3.5,$
+147,Le Grenier,None,Washington, ,20002,(202) 544-4999,359,4.0,$$
+148,Biscuit Lab Baking Company,None,Washington, ,20010,,2,3.0,
+149,Pret A Manger,None,Washington, ,20005,(202) 393-0533,22,4.0,$
+150,Bob & Edith’s Diner,None,Arlington, ,22202,(703) 920-2700,220,4.0,$
+151,Trio Restaurant,None,Washington, ,20036,(202) 232-6305,150,3.5,$$
+152,Drafting Table,None,Washington, ,20005,(202) 621-7475,215,3.0,$$
+153,Jaco Juice and Taco Bar,None,Washington, ,20007,(202) 505-2216,98,4.0,$
+154,Pumpernickel’s Bagelry & Delicatessen,None,Washington, ,20015,(202) 244-9505,130,3.0,$
+155,Lincoln’s Waffle Shop,None,Washington, ,20004,(202) 638-4008,872,3.5,$
+156,Annie’s Paramount Steak House,None,Washington, ,20009,(202) 232-0395,268,3.5,$$
+157,Fresh Chop Chop,None,Arlington, ,22209,(703) 248-0722,17,4.5,$
+158,Fenton Cafe,None,Silver Spring, ,20910,(301) 326-1841,202,4.0,$
+159,DC Dives,None,Washington, ,20002,(202) 696-8335,1,5.0,$
+160,Tony’s Place,None,Washington, ,20002,(202) 396-2482,10,4.0,$
+161,The Class Deli,None,Washington, ,20012,(202) 882-1850,4,4.0,
+162,Bruegger’s Bagels,None,Washington, ,20037,(202) 223-5220,79,3.0,$
+163,Le Pain Quotidien - Mount Vernon Triangle,None,Washington, ,20001,(202) 312-5566,52,3.0,$$
+164,Cafe Kindred,None,Falls Church, ,22046,(571) 327-2215,162,4.5,$
+165,DeCarlo’s Restaurant,None,Washington, ,20016,(202) 363-4220,38,3.5,$$
+166,Bob & Edith’s Diner,None,Arlington, ,22204,(703) 920-6103,561,4.0,$
+167,Shake Shack,None,Washington, ,20002,(202) 684-2428,189,3.5,$$
+168,West Wing Cafe,None,Washington, ,20015,(202) 659-2233,3,3.5,
+169,Kaldi’s Social House,None,Silver Spring, ,20910,(301) 557-9991,313,4.0,$
+170,DNV Rooftop Lounge - Temp. CLOSED,None,Washington, ,20005,(202) 379-4366,97,3.5,$$
+171,Stomping Ground,None,Alexandria, ,22301,(703) 364-8912,205,4.0,$$
+172,Tryst,None,Washington, ,20009,(202) 232-5500,1240,4.0,$$
+173,AllSpice Cafe & Catering,None,Arlington, ,22209,(703) 524-4050,55,4.0,$
+174,Twins Jazz,None,Washington, ,20009,(202) 234-0072,90,3.0,$$
+175,Torrie’s,None,Washington, ,20001,(202) 462-3700,53,3.0,$
+176,Le Pain Quotidien,None,Washington, ,20002,(202) 499-6789,73,3.0,$$
+177,Bullfrog Bagels,None,Washington, ,20003,(202) 494-5615,13,3.0,$
+178,Busboys and Poets,None,Hyattsville, ,20781,(301) 779-2787,607,4.0,$$
+179,Peacock Cafe,None,Washington, ,20007,(202) 625-2740,326,3.5,$$
+180,The Java Shack,None,Arlington, ,22201,(703) 527-9556,172,4.0,$
+181,Café Georgetown,None,Washington, ,20007,(202) 444-3381,1,3.0,
+182,The Liberty Tavern,None,Arlington, ,22201,(703) 465-9360,996,4.0,$$
+183,Fifteen Squares,None,Washington, ,20001,(202) 898-9000,15,3.0,$$
+184,Twist Georgetown,None,Washington, ,20007,(410) 522-4000,126,2.0,$$$
+185,AGB,None,Washington, ,20007,(202) 337-0900,3,3.5,
+186,Earl’s Sandwiches,None,Arlington, ,22201,(703) 248-0150,307,4.0,$
+187,Sweet Leaf,None,Arlington, ,22201,(703) 525-5100,93,4.0,$
+188,Aperto,None,Washington, ,20006,(202) 223-3600,8,4.5,$$$
+189,Mike’s Cafe,None,Arlington, ,22203,(703) 312-7371,119,4.0,$
+190,Carlyle,None,Arlington, ,22206,(703) 931-0777,981,4.0,$$
+191,Au Bon Pain,None,Washington, ,20004,(202) 783-9601,18,3.0,$
+192,Parkway Deli & Restaurant,None,Silver Spring, ,20910,(301) 587-1427,466,4.0,$$
+193,Green Leaf Cafe,None,Arlington, ,22202,(703) 414-3788,15,4.0,$
+194,White Corner,None,Capitol Heights, ,20743,(301) 420-2010,15,4.5,$
+195,Seasons Restaurant,None,Washington, ,20007,(202) 342-0444,66,4.0,$$$$
+196,Waffle Shop,None,Alexandria, ,22305,(703) 836-8851,83,4.0,$
+197,Silver Diner,None,Arlington, ,22201,(703) 812-8600,393,3.5,$$
+198,Harriet’s Family Restaurant,None,Washington, ,20004,(202) 628-8024,63,2.0,$$
+199,Steam Cafe Pizzeria,None,Washington, ,20009,(202) 588-7554,152,3.5,$$
+200,Roof Terrace Restaurant,None,Washington, ,20566,(202) 416-8555,143,2.5,$$$
+201,Senart’s Oyster & Chop House,None,Washington, ,20003,(202) 544-1168,171,3.5,$$
+202,Grillfish DC,None,Washington, ,20036,(202) 331-7310,410,3.5,$$
+203,Italian Gourmet Deli,None,Washington, ,20036,(202) 736-9700,32,3.0,$
+204,Leo’s Eatery,None,Washington, ,20024,(202) 808-9344,3,4.5,$
+205,Pret a Manger,None,Washington, ,20036,,6,4.0,$$
+206,The Diner,None,Washington, ,20009,(202) 232-8800,778,3.5,$$
+207,Duck Donuts,None,Arlington, ,22207,(571) 297-2298,128,4.5,$
+208,Palette 22,None,Arlington, ,22206,(703) 746-9007,255,4.0,$$
+209,Busboys and Poets,None,Arlington, ,22206,(703) 379-9757,793,3.5,$$
+210,Brown Bag,None,Washington, ,20036,(202) 683-4177,19,2.5,$
+211,Country Style Chicken and Waffles,None,Temple Hills, ,20748,(240) 532-7969,93,4.0,$
+212,Anthem,None,Washington, ,20001,(202) 824-9386,6,2.5,$$$
+213,DC Harvest,None,Washington, ,20002,(202) 629-3296,238,3.5,$$
+214,Timmy’s Place,None,Washington, ,20020,(202) 621-8483,5,2.5,
+215,SOCCi,None,Arlington, ,22202,,94,3.5,$$
+216,Blue Duck Tavern,None,Washington, ,20037,(202) 419-6755,1597,4.0,$$$
+217,Twisted Vines Bottleshop & Bistro,None,Arlington, ,22204,(571) 699-0851,260,4.0,$$
+218,Market to Market,None,Washington, ,20036,(202) 822-5183,12,3.5,$
+219,Le Diplomate,None,Washington, ,20009,(202) 332-3333,1781,4.0,$$$
+220,Slipstream,None,Washington, ,20005,(202) 450-2216,309,4.0,$$
+221,Ireland’s Four Courts,None,Arlington, ,22201,(703) 525-3600,307,3.5,$$
+222,Le Pain Quotidien - Spring Valley,None,Washington, ,20016,(202) 459-9141,59,3.0,$$
+223,CIty Bites,None,Washington, ,20006,(202) 289-1820,8,2.0,$
+224,E’s Breakfast Nook,None,Washington, ,20001,(202) 545-1212,,,
+225,Cassatt’s Kiwi Cafe & Gallery,None,Arlington, ,22207,(703) 527-3330,200,3.5,$$
+226,The Original Pancake House,None,Bethesda, ,20814,(301) 986-0285,226,3.5,$$
+227,Eggspectation,None,Silver Spring, ,20910,(301) 585-1700,551,3.0,$$
+228,Cosi,None,Washington, ,20015,(202) 537-9300,42,3.0,$$
+229,Florida Avenue Grill,None,Washington, ,20009,(202) 265-1586,304,3.5,$$
+230,Copperwood Tavern,None,Arlington, ,22206,(703) 552-8010,547,3.5,$$
+231,Pacifico Cantina,None,Washington, ,20003,(202) 507-8143,356,2.5,$$
+232,Café Bonaparte,None,Washington, ,20007,(202) 333-8830,498,3.5,$$
+233,Fontaine Caffe & Creperie,None,Alexandria, ,22314,(703) 535-8151,382,4.0,$$
+234,Le Pain Quotidien - Capitol Hill,None,Washington, ,20003,(202) 459-9147,236,3.0,$$
+235,Legends Chicken & Grill,None,Hyattsville, ,20784,(240) 770-5151,49,4.0,$
+236,The Heights,None,Washington, ,20010,(202) 839-3006,591,3.5,$$
+237,Keren Restaurant,None,Washington, ,20009,(202) 265-5764,630,4.5,$$
+238,Urban Butcher,None,Silver Spring, ,20910,(301) 585-5800,448,3.5,$$$
+239,CIRCA at Clarendon,None,Arlington, ,22201,(703) 522-3010,333,3.5,$$
+240,Extra Perks Coffee Shop,None,Alexandria, ,22314,(703) 706-5886,227,3.5,$
+241,Corner Bakery Cafe,None,Washington, ,20005,(202) 887-0420,31,2.5,$$
+242,IHOP,None,Washington, ,20010,(202) 939-0500,153,2.5,$$
+243,Woodward Takeout Food,None,Washington, ,20005,(202) 347-5355,86,4.0,$$
+244,Corner Bakery Cafe,None,Arlington, ,22201,(703) 236-2818,84,3.0,$
+245,Huascaran,None,Alexandria, ,22305,(703) 684-0494,34,4.0,$$
+246,CIRCA at Foggy Bottom,None,Washington, ,20037,(202) 506-5589,400,3.5,$$
+247,Fresh Kitchen By Robert Irvine,None,Washington, ,None,,1,3.0,
+248,Uptown Cafe,None,Arlington, ,22203,(703) 525-3091,14,4.0,$
+249,Cosi,None,Washington, ,20001,(202) 824-0730,101,2.5,$
+250,Denny’s,None,Washington, ,20002,(202) 758-3637,54,3.5,$$
+251,The Hilltop Bar & Restaurant,None,Washington, ,20001,(202) 642-1584,10,4.0,$$$
+252,Mrs. K’s Restaurant & Barrel Bar,None,Silver Spring, ,20910,(301) 589-3500,288,3.5,$$$
+253,Farmers & Distillers - Coming Soon,None,Washington, ,20001,(202) 464-3001,,,
+254,Pancake House,None,Hyattsville, ,20784,(301) 459-1200,60,4.0,$
+255,Legal Sea Foods,None,Arlington, ,22202,(571) 551-5988,78,4.0,$$
+256,Le Pain Quotidien - Bethesda,None,Bethesda, ,20814,(301) 913-2902,174,3.0,$$
+257,The Hamilton,None,Washington, ,20005,(202) 787-1000,1361,3.5,$$
+258,Duke’s Grocery,None,Washington, ,20036,(202) 733-5623,574,4.0,$$
+259,Evening Star Cafe,None,Alexandria, ,22301,(703) 549-5051,430,3.5,$$
+260,Chadwicks,None,Alexandria, ,22314,(703) 836-4442,373,3.5,$$
+261,Trinity Deli,None,Washington, ,20017,(202) 667-6886,24,3.5,$
+262,Denny’s,None,Washington, ,20019,(202) 399-7526,39,3.5,$
+263,Royal Restaurant,None,Alexandria, ,22314,(703) 548-1616,227,3.5,$$
+264,The Great Eatery,None,Arlington, ,22209,(703) 527-2110,6,3.5,$
+265,Brown Bag,None,Bethesda, ,20814,(301) 654-4600,53,3.5,$
+266,Scarlet Oak,None,Washington, ,20003,(202) 780-0140,137,4.0,$$
+267,Jack’s Place,None,Alexandria, ,22314,(703) 684-0372,78,3.5,$
+268,Cafe Deluxe,None,Bethesda, ,20814,(301) 656-3131,223,3.0,$$
+269,Cafe des Artistes,None,Washington, ,20006,(202) 639-1786,6,3.0,$$
+270,Metro 29 Diner Restaurant,None,Arlington, ,22207,(703) 528-2464,450,3.0,$$
+271,Silo,None,Washington, ,20001,(202) 290-2233,214,3.5,$$
+272,Cafe Aurora,None,Alexandria, ,22304,(703) 567-4050,91,4.0,$$
+273,Paul Bakery & Café,None,Washington, ,20004,(202) 524-4500,449,3.5,$$
+274,Tastee Diner,None,Silver Spring, ,20910,(301) 589-8171,239,3.0,$
+275,Jackson 20,None,Alexandria, ,22314,(703) 842-2790,524,3.5,$$
+276,Matchbox,None,Arlington, ,22202,(703) 340-3884,54,3.5,$$
+277,Zephyr Deli,None,Washington, ,20001,(202) 582-1234,14,3.0,$
+278,Le Pain Quotidien,None,Arlington, ,22201,(703) 465-0970,189,3.0,$$
+279,Art and Soul,None,Washington, ,20001,(202) 854-0023,712,3.5,$$$
+280,Terrace Deli,None,Bethesda, ,20814,,14,3.5,$
+281,La Madeleine Country French Cafe,None,Silver Spring, ,20910,(301) 830-5354,70,3.0,$$
+282,Crossroads Grill,None,Falls Church, ,22041,(703) 931-5426,13,4.0,$
+283,Cafe Dupont,None,Washington, ,20036,(202) 483-6000,146,3.5,$$
+284,Bistro Provence,None,Bethesda, ,20814,(301) 656-7373,118,3.5,$$$
+285,Sofia’s Pupuseria,None,Arlington, ,22204,(703) 746-0355,13,4.0,$$
+286,Cedar,None,Washington, ,20004,(202) 637-0012,632,4.0,$$$
+287,Cabinet,None,Washington, ,20001,(202) 582-3402,3,3.0,$$
+288,Le Pain Quotidien,None,Alexandria, ,22314,(703) 683-2273,214,3.5,$$
+289,Granite City Food & Brewery,None,National Harbor, ,20745,(240) 493-3900,412,3.5,$$
+290,Modern Market,None,Bethesda, ,20814,(240) 800-4733,57,4.5,$$
+291,Wicked Waffle,None,Bethesda, ,20817,(301) 469-0006,118,4.0,$
+292,Dos Gringos Cafe,None,Washington, ,20010,(202) 462-1159,160,3.0,$
+293,Juniper Restaurant,None,Washington, ,20037,(202) 457-5020,93,3.5,$$$
+294,Crystal City Sports Pub,None,Arlington, ,22202,(571) 305-5229,405,3.5,$$
+295,IHOP,None,Washington, ,20032,(202) 563-5890,35,2.5,$
+296,Simply Fresh,None,McLean, ,22101,(703) 821-1869,19,3.5,$
+297,Silver Diner,None,Greenbelt, ,20770,(301) 220-0028,200,3.5,$$
+298,Le Pain Quotidien - Chevy Chase,None,Chevy Chase, ,20815,(202) 499-6785,44,3.0,$$
+299,Yellow House,None,Washington, ,20019,(202) 397-2266,7,2.0,
+300,Pacci’s Trattoria & Pasticceria,None,Silver Spring, ,20910,(301) 588-0867,138,3.5,$$
+301,Patty’s Place,None,Silver Spring, ,20910,(301) 608-0060,17,4.0,$
+302,The Kosher Pastry Oven Restaurant,None,Silver Spring, ,20902,(301) 592-8844,53,4.5,$$
+303,Warehouse Bar & Grill,None,Alexandria, ,22314,(703) 683-6868,359,3.5,$$
+304,5th Floor Cafe,None,Bethesda, ,20815,(301) 657-5500,5,3.0,
+305,Louisiana Kitchen and Bayou Bar,None,Bethesda, ,20810,(301) 652-6945,188,3.0,$$
+306,Tunnicliff’s Tavern,None,Washington, ,20003,(202) 544-5680,270,3.5,$$
+307,The Original Pancake House,None,Falls Church, ,22042,(703) 698-6292,308,3.5,$$
+308,Wapa Cafe Boutique,None,Washington, ,20011,(202) 291-2224,82,4.5,$
+309,Paul Bakery & Cafe,None,Washington, ,20052,(202) 524-4655,91,3.0,$$
+310,Java Nation,None,Kensington, ,20895,(301) 327-6580,96,4.0,$
+311,Boundary Stone,None,Washington, ,20001,(202) 621-6635,352,4.0,$$
+312,Bayou Bakery,None,Washington, ,20003,(202) 664-5307,121,3.5,$
+313,The Fainting Goat,None,Washington, ,20009,,378,4.0,$$
+314,Dip N Rolls,None,Silver Spring, ,20910,(202) 400-0633,23,4.5,$
+315,Samuel Beckett’s Irish Gastro Pub,None,Arlington, ,22206,(703) 379-0122,236,3.5,$$
+316,Mintwood Place,None,Washington, ,20009,(202) 234-6732,497,4.0,$$$
+317,Founding Farmers Tysons,None,Tysons, ,22102,(703) 442-8783,1237,3.5,$$
+318,Cafe Deluxe,None,Washington, ,20037,(202) 524-7815,141,3.5,$$
+319,Einstein Bros Bagels,None,Washington, ,20001,(703) 417-1624,38,2.5,$
+320,Einstein Bros Bagels,None,Washington, ,20001,(703) 417-1624,38,2.5,$
+321,FireFlies Restaurant,None,Alexandria, ,22301,(703) 548-7200,302,3.0,$$
+322,Yves Bistro,None,Alexandria, ,22314,(703) 329-1010,201,3.5,$$
+323,Sweetleaf,None,McLean, ,22101,(703) 893-2323,121,3.5,$
+324,Eclectic Cafe,None,Washington, ,20019,(202) 397-1095,,,
+325,The Grill @ McPherson Square,None,Washington, ,20005,(202) 525-2578,1,3.0,
+326,Young’s Carryout,None,Capitol Heights, ,20743,(301) 350-5181,27,4.5,$
+327,ChurchKey,None,Washington, ,20005,(202) 567-2576,1179,4.0,$$
+328,Jack’s Fresh,None,Washington, ,20005,(202) 783-5667,,,
+329,Co Co Sala,None,Washington, ,20004,(202) 347-4265,1356,4.0,$$$
+330,Northside Social Coffee & Wine,None,Arlington, ,22201,(703) 465-0145,936,4.0,$$
+331,Bentley’s Restaurant,None,Falls Church, ,22042,(703) 532-4100,91,3.0,$$
+332,Veranda Cafe,None,Arlington, ,22202,(703) 416-1600,3,4.5,$$
+333,VIA 19,None,Washington, ,20036,(202) 429-8889,27,2.5,$$
+334,IHOP,None,Alexandria, ,22305,(703) 519-4220,92,3.0,$$
+335,Granville Moore’s,None,Washington, ,20002,(202) 399-2546,884,4.0,$$
+336,Sixth Engine,None,Washington, ,20001,(202) 506-2455,334,3.5,$$
+337,Jardenea,None,Washington, ,20037,(202) 955-6400,97,4.0,$$$
+338,Brookland’s Finest,None,Washington, ,20017,(202) 636-0050,284,4.0,$$
+339,Uptown Grill,None,Greenbelt, ,20770,(301) 345-3300,10,4.5,$
+340,The Alibi,None,Washington, ,20001,(202) 347-2237,84,4.5,$$
+341,Sweet Leaf,None,McLean, ,22182,(703) 734-1624,26,4.0,$$
+342,GTown Bites,None,Washington, ,20007,(202) 450-3320,53,4.0,$
+343,City Tap House,None,Washington, ,20001,(202) 733-5333,985,4.0,$$
+344,IHOP,None,Temple Hills, ,20748,(301) 423-4545,22,3.5,$
+345,Room 11,None,Washington, ,20010,(202) 332-3234,402,4.0,$$
+346,Cafe Natilee,None,Falls Church, ,22042,(703) 641-1500,14,4.5,$$
+347,Leopolds Kafe and Konditorei,None,Washington, ,20007,(202) 965-6005,,,
+348,El Mexireno Restaurant,None,Oxon Hill, ,20745,(301) 630-1200,35,4.5,$
+349,Clyde’s of Georgetown,None,Washington, ,20007,(202) 333-9180,692,4.0,$$
+350,Clyde’s of Georgetown,None,Washington, ,20007,(202) 333-9180,692,4.0,$$
+351,Simit + Smith,None,Washington, ,20007,(202) 758-0553,71,4.0,$
+352,Ted’s Bulletin - Merrifield,None,Fairfax, ,22031,(571) 830-6680,457,3.5,$$
+353,"Bayou Bakery, Coffee Bar & Eatery",None,Arlington, ,22201,(571) 384-2181,615,3.5,$
+354,Bar Pilar,None,Washington, ,20009,(202) 265-1751,435,3.5,$$
+355,Seasons 52,None,McLean, ,22102,(703) 288-3852,658,4.0,$$
+356,Big Bear Cafe,None,Washington, ,20001,(202) 643-9222,493,3.5,$$
+357,Del Ray Cafe,None,Alexandria, ,22301,(703) 717-9151,346,4.0,$$
+358,Tonic At Quigley’s Bar and Restaurant,None,Washington, ,20052,(202) 296-0211,550,3.0,$$
+359,Paddy Barry’s Irish Pub and Restaurant,None,Tysons Corner, ,22182,(703) 883-2000,116,4.0,$$
+360,Champion Grill,None,Beltsville, ,20705,(301) 937-5577,12,4.0,$
+361,Kangaroo Boxing Club,None,Washington, ,20010,(202) 505-4522,335,4.0,$$
+362,Silver Diner,None,McLean, ,22102,(703) 821-5666,224,3.5,$$
+363,So’s Your Mom,None,Washington, ,20009,(202) 462-3666,261,4.0,$
+364,Le Pain Quotidien,None,Bethesda, ,20814,(240) 752-8737,77,3.0,$$
+365,Bruegger’s Bagels,None,Arlington, ,22203,(703) 248-0980,100,3.0,$
+366,Kafe Bohem,None,Washington, ,20001,(202) 735-5895,80,4.0,$$
+367,Lincoln,None,Washington, ,20005,(202) 386-9200,800,3.5,$$
+368,Nage,None,Washington, ,20036,(202) 448-8005,341,3.5,$$
+369,CIRCA at Dupont,None,Washington, ,20009,(202) 667-1601,532,3.5,$$
+370,CIRCA at Dupont,None,Washington, ,20009,(202) 667-1601,532,3.5,$$
+371,Orion Gourmet Take Away,None,Greenbelt, ,20770,(301) 552-4600,52,4.5,$
+372,Bar Deco,None,Washington, ,20001,(202) 774-5867,156,3.5,$$
+373,The Royal,None,Washington, ,20001,(202) 332-7777,93,4.0,$$
+374,Meridian Pint,None,Washington, ,20010,(202) 588-1075,558,3.5,$$
+375,Silver,None,Bethesda, ,20815,(301) 652-9780,142,3.5,$$
+376,The Greenhouse,None,Washington, ,20036,(202) 448-2300,30,3.5,$$$
+377,Ben’s Upstairs,None,Washington, ,20002,(202) 733-2405,58,3.5,$$
+378,Arcuri,None,Washington, ,20007,(202) 827-8745,154,4.0,$$
+379,Roofers Union,None,Washington, ,20009,(202) 232-7663,253,3.5,$$
+380,RIS,None,Washington, ,20037,(202) 730-2500,362,3.5,$$$
+381,IHOP,None,Arlington, ,22203,(703) 522-3118,118,3.0,$$
+382,Le Bon Cafe,None,Washington, ,20003,(202) 547-7200,113,3.5,$
+383,Fare Well,None,Washington, ,20002,(202) 367-9600,116,4.0,$$
+384,Enbela Market & Carry Out,None,Silver Spring, ,20910,(301) 326-4023,1,5.0,
+385,Aroma Espresso Bar,None,Bethesda, ,20817,(301) 312-6216,93,4.0,$
+386,IHOP,None,Oxon Hill, ,20745,(301) 839-4468,25,2.5,$$
+387,The Original Pancake House,None,Rockville, ,20852,(301) 468-0886,263,3.5,$$
+388,Maketto,None,Washington, ,20002,(202) 838-9972,429,4.0,$$
+389,The Tavern at the Henley Park,None,Washington, ,20001,(202) 414-0500,41,3.5,$$
+390,The Pitch Tavern,None,Washington, ,20011,(202) 560-5142,66,4.0,$$
+391,Eleni’s Greek Taverna,None,Springfield, ,22150,(703) 912-1400,180,4.5,$$
+392,Point Chaud Café & Crêpes,None,Washington, ,20005,(202) 783-0304,178,3.5,$
+393,Bird Kitchen and Cocktails,None,Mount Rainier, ,20712,(240) 467-3089,106,4.0,$$
+394,14 K Restaurant & Lounge,None,Washington, ,20005,(202) 218-7575,181,3.0,$$
+395,Teddy & The Bully Bar,None,Washington, ,20036,(202) 872-8700,385,3.5,$$$
+396,La Colombe Coffee,None,Washington, ,20001,(202) 289-4850,369,4.5,$
+397,Cafe Aria,None,Washington, ,20006,(202) 589-0899,35,3.5,$
+398,Cinthia’s Bakery,None,Arlington, ,22204,(703) 998-2375,17,2.5,$$
+399,Baked & Wired,None,Washington, ,20007,(202) 333-2500,2977,4.5,$$
+400,MoCo’s Founding Farmers,None,Potomac, ,20854,(301) 340-8783,1456,3.5,$$
+401,Liberty Tree,None,Washington, ,20002,(202) 396-8733,211,3.5,$$
+402,Bob & Edith’s Diner,None,Springfield, ,22150,(703) 854-1401,168,3.5,$
+403,Le Pain Quotidien - Mosaic District,None,Fairfax, ,22031,(703) 462-9322,147,3.0,$$
+404,Fresh Kitchen,None,Arlington, ,22202,(703) 842-1240,5,2.0,$$
+405,Oby Lee,None,Arlington, ,22201,(571) 257-5054,356,4.5,$$
+406,Tune Inn,None,Washington, ,20003,(202) 543-2725,364,3.5,$
+407,DBGB Kitchen and Bar,None,Washington, ,20001,(202) 695-7660,313,3.5,$$$
+408,Fyve Restaurant Lounge,None,Arlington, ,22202,(703) 415-5000,86,4.0,$$$
+409,Local 16,None,Washington, ,20009,(202) 265-2828,543,3.0,$$
+410,Convivial,None,Washington, ,20001,(202) 525-2870,255,4.0,$$
+411,District Doughnut and Coffee,None,Washington, ,20003,(202) 750-1955,327,4.0,$$
+412,Donut King,None,Kensington, ,20895,(301) 949-3464,56,3.0,$
+413,Cafe Tu-O-Tu,None,Washington, ,20007,(202) 298-7777,192,4.0,$
+414,Mason Dixie Biscuit,None,Washington, ,20002,(540) 300-6322,37,4.0,$
+415,Southern Hospitality,None,Washington, ,20009,(202) 588-0411,387,3.5,$$
+416,Deli Works,None,Arlington, ,22202,(703) 415-1515,12,2.5,$
+417,Casablanca Cafe,None,Upper Marlboro, ,20772,(301) 735-5888,11,3.5,$
+418,Tropical Smoothie Cafe,None,Falls Church, ,22044,(703) 992-8004,29,4.0,$
+419,Right Angle Deli,None,Fairfax, ,22031,(703) 645-0288,32,4.0,$
+420,Bar Civita,None,Washington, ,20008,(202) 588-1211,103,4.0,$$
+421,Linda’s Cafe,None,Arlington, ,22207,(703) 538-2542,137,3.5,$
+422,Booeymonger,None,Washington, ,20007,(202) 333-4810,175,4.0,$
+423,Fresh Deli,None,Hyattsville, ,20785,(301) 731-3266,5,5.0,$
+424,Duke’s Counter,None,Washington, ,20008,(202) 733-4808,54,4.5,$$
+425,Driftwood Kitchen,None,Washington, ,20002,(202) 803-2651,174,3.5,$$
+426,Station Kitchen & Cocktails,None,Washington, ,20036,(202) 265-1600,42,3.5,$$
+427,The Pig,None,Washington, ,20005,(202) 290-2821,1077,4.0,$$
+428,Open City At the National Cathedral,None,Washington, ,20015,(202) 965-7670,36,4.0,$$
+429,Clyde’s of Gallery Place,None,Washington, ,20001,(202) 349-3700,925,3.5,$$
+430,Brooklyn Bagel Bakery,None,Arlington, ,22201,(703) 243-4442,484,4.0,$
+431,Rhodeside Grill,None,Arlington, ,22201,(703) 243-0145,262,3.5,$$
+432,Heat Da Spot,None,Washington, ,20010,(202) 836-4719,43,5.0,$
+433,Walker’s Grille,None,Alexandria, ,22310,(703) 922-6200,193,3.5,$$
+434,Seasons 52,None,North Bethesda, ,20852,(301) 984-5252,446,3.5,$$$
+435,The Chesapeake Room,None,Washington, ,20003,(202) 543-1445,286,3.0,$$
+436,Smoke & Barrel,None,Washington, ,20009,(202) 319-9353,484,3.5,$$
+437,Medium Rare,None,Washington, ,20003,(202) 601-7136,392,4.0,$$
+438,Vinoteca,None,Washington, ,20001,(202) 332-9463,669,3.5,$$
+439,Good Stuff Eatery,None,Arlington, ,22202,,4,2.0,
+440,Osteria Marzano,None,Alexandria, ,22310,(703) 313-9700,210,4.0,$$
+441,Muze,None,Washington, ,20024,(202) 787-6148,26,3.5,$$$
+442,Sankofa Video Books & Cafe,None,Washington, ,20001,(202) 332-1084,95,4.5,$
+443,Milk & Honey Cafe,None,Beltsville, ,20705,(301) 477-2195,33,4.5,$$
+444,Sticky Fingers Sweets & Eats,None,Washington, ,20010,(202) 299-9700,748,4.0,$
+445,Woodward Table,None,Washington, ,20005,(202) 347-5353,367,3.5,$$
+446,Town Hall,None,Washington, ,20007,(202) 333-5640,203,3.5,$$
+447,IHOP,None,Silver Spring, ,20904,(301) 680-1920,63,4.0,$
+448,Paul,None,Washington, ,20007,(202) 524-4630,238,3.5,$$
+449,Boundary Road,None,Washington, ,20002,(202) 450-3265,293,4.0,$$
+450,The Fourth Estate,None,Washington, ,20045,(202) 662-7638,63,3.5,$$$
+451,La Casa Pizzeria Restaurant,None,Alexandria, ,22304,(703) 370-3600,110,4.0,$$
+452,IHOP,None,Brentwood, ,20722,(301) 779-0838,22,2.5,$
+453,Capitol City Brewing Company,None,Washington, ,20005,(202) 628-2222,749,3.5,$$
+454,Potter’s House,None,Washington, ,20009,(202) 232-5483,96,4.5,$
+455,The Wonderland Ballroom,None,Washington, ,20009,(202) 232-5263,452,3.5,$$
+456,District Commons,None,Washington, ,20037,(202) 587-8277,661,3.5,$$
+457,Freddie’s Beach Bar & Restaurant,None,Arlington, ,22202,(703) 685-0555,256,4.0,$$
+458,Duplex Diner,None,Washington, ,20009,(202) 265-7828,95,3.5,$$
+459,Astro Doughnuts & Fried Chicken,None,Washington, ,20005,(202) 809-5565,641,3.5,$
+460,Astro Doughnuts & Fried Chicken,None,Washington, ,20005,(202) 809-5565,641,3.5,$
+461,Nellie’s Sports Bar,None,Washington, ,20001,(202) 332-6355,372,4.0,$$
+462,Ben’s Next Door,None,Washington, ,20009,(202) 667-8880,524,3.5,$$
+463,Cafe Pizzaiolo,None,Alexandria, ,22302,(703) 894-2250,152,3.0,$$
+464,Normandie Farm,None,Potomac, ,20854,(301) 983-8838,120,3.0,$$$
+465,Aboil Cafe,None,Washington, ,20011,(202) 812-7808,24,5.0,$
+466,Odalis Restaurant,None,Silver Spring, ,20910,(301) 650-0066,16,3.5,$$
+467,The Arsenal At Bluejacket,None,Washington, ,20003,(202) 524-4862,40,3.5,$$
+468,Daily Grill,None,Washington, ,20007,(202) 337-4900,121,3.5,$$
+469,Orange Anchor,None,Washington, ,20007,(202) 802-9990,146,3.0,$$
+470,Panera Bread,None,Alexandria, ,22314,(800) 555-5555,12,3.0,$$
+471,City Diner Restaurant,None,Falls Church, ,22041,(703) 671-4108,188,4.0,$$
+472,Satellite Room,None,Washington, ,20001,(202) 506-2496,214,3.0,$$
+473,TS Grill,None,Silver Spring, ,20910,(240) 398-3124,11,2.5,$
+474,Old Angler’s Inn,None,Potomac, ,20854,(301) 365-2425,216,2.5,$$$
+475,The Daily Dish,None,Silver Spring, ,20910,(301) 588-6300,129,3.5,$$
+476,Soho Cafe & Market,None,Washington, ,20005,(202) 842-2400,57,3.5,$
+477,Whitlow’s On Wilson,None,Arlington, ,22201,(703) 276-9693,653,3.5,$$
+478,L’Enfant Cafe & Bar,None,Washington, ,20009,(202) 319-1800,329,3.0,$$
+479,Smokey’s,None,Washington, ,20011,(202) 723-8960,18,4.0,$
+480,Corner Bakery Cafe,None,Washington, ,20036,(202) 776-9052,81,3.5,$
+481,Capitol Bistro,None,Washington, ,20024,(202) 479-4000,43,3.0,$$
+482,Garden Cafe,None,Washington, ,20037,(202) 861-0331,20,3.5,$$
+483,Little Coco’s,None,Washington, ,20011,(202) 853-9889,31,4.5,$$
+484,Rose’s Luxury,None,Washington, ,20003,(202) 580-8889,1260,4.5,$$$
+485,St. Arnold’s On Jefferson,None,Washington, ,20036,(202) 833-1321,577,4.0,$$
+486,The Prospect,None,Washington, ,20009,(202) 450-4130,132,4.0,$$
+487,Café Sorriso,None,Washington, ,20008,(202) 803-2872,83,4.0,$$
+488,nopa Kitchen + Bar,None,Washington, ,20004,(202) 347-4667,332,4.0,$$$
+489,DC Reynolds,None,Washington, ,20010,(202) 506-7178,205,4.0,$$
+490,Colony Club,None,Washington, ,20010,(202) 722-7202,90,4.5,$
+491,Songbyrd Record Cafe,None,Washington, ,20009,(202) 450-2917,86,4.0,$$
+492,Uprising Muffin Company,None,Washington, ,20001,(202) 290-1196,225,4.5,$
+493,Roberts Restaurant,None,Washington, ,20008,(202) 756-5300,36,3.5,$$
+494,The Bean Counter,None,Washington, ,20007,(202) 625-1665,72,4.0,$
+495,Silver Diner,None,Merrifield, ,22042,(703) 204-0812,173,3.5,$$
+496,Bread & Chocolate,None,Alexandria, ,22314,(703) 548-0992,139,3.0,$$
+497,Vendetta,None,Washington, ,20002,(202) 399-3201,127,3.0,$$
+498,Capital Teas,None,Washington, ,20024,(202) 488-8327,1,4.0,$$
+499,Patisserie Poupon,None,Washington, ,20007,(202) 342-3248,251,4.0,$$
+500,Patisserie Poupon,None,Washington, ,20007,(202) 342-3248,251,4.0,$$
+501,Smith Commons,None,Washington, ,20002,(202) 396-0038,472,3.5,$$
+502,Bluejacket,None,Washington, ,20003,(202) 524-4862,680,3.5,$$
+503,Bread & Chocolate,None,Washington, ,20015,(202) 966-7413,77,3.0,$$
+504,Petits Plats,None,Washington, ,20008,(202) 518-0018,155,3.5,$$
+505,Three Fifty Bakery and Coffee Bar,None,Washington, ,20009,(202) 629-1022,144,4.5,$
+506,Breadline,None,Washington, ,20006,(202) 822-8900,200,3.5,$
+507,1905 Restaurant,None,Washington, ,20001,(202) 332-1905,267,3.5,$$
+508,The Partisan,None,Washington, ,20004,(202) 524-5322,290,4.0,$$$
+509,10 Thomas Restaurant,None,Washington, ,20005,(202) 842-1300,21,3.5,$$
+510,Scion,None,Silver Spring, ,20910,(301) 585-8878,213,3.5,$$
+511,Chef Geoff’s,None,Washington, ,20016,(202) 237-7800,250,3.0,$$
+512,District Kitchen,None,Washington, ,20008,(202) 238-9408,237,3.5,$$
+513,Cafe Saint-Ex,None,Washington, ,20009,(202) 265-7839,507,3.5,$$
+514,Union Pub,None,Washington, ,20002,(202) 546-7200,232,3.0,$$
+515,Edgar Bar & Kitchen,None,Washington, ,20036,(202) 347-2233,109,3.0,$$
+516,Chads Friendship Heights,None,Washington, ,20015,(202) 362-8040,202,3.5,$$
+517,P J Clarke’s,None,Washington, ,20006,(202) 463-6610,316,3.0,$$
+518,Sonoma Restaurant & Wine Bar,None,Washington, ,20003,(202) 544-8088,376,3.5,$$$
+519,Bar Dupont,None,Washington, ,20036,(202) 797-0169,276,3.5,$$
+520,1789 Restaurant,None,Washington, ,20007,(202) 965-1789,540,4.0,$$$$
+521,The Pug,None,Washington, ,20002,(202) 555-1212,207,4.0,$
+522,Ben’s Chili Bowl,None,Washington, ,20009,(202) 667-0909,3249,3.5,$
+523,Bruegger’s Bagels,None,Alexandria, ,22314,(703) 683-0080,77,3.0,$
+524,PAUL Columbia Square,None,Washington, ,20004,(202) 347-1606,32,3.0,$$
+525,Coffy Cafe,None,Washington, ,20010,(202) 588-5660,185,4.0,$
+526,Bakers & Baristas,None,Washington, ,20004,(202) 347-7893,215,4.0,$$
+527,Bagel Place of College Park,None,College Park, ,20740,(301) 779-3900,182,4.0,$
+528,Ripple,None,Washington, ,20008,(202) 244-7995,356,3.5,$$$
+529,Stoney’s on L,None,Washington, ,20037,(202) 721-0019,134,4.0,$$
+530,Le Caprice DC,None,Washington, ,20010,(202) 290-3109,213,3.5,$
+531,Swampoodle,None,Washington, ,20011,(202) 450-3511,38,3.5,$$
+532,Provision No 14,None,Washington, ,20009,(202) 827-4530,278,3.5,$$
+533,Smith Public Trust,None,Washington, ,20017,(202) 733-5834,154,4.0,$$
+534,Cosi,None,Washington, ,20005,(202) 289-5888,48,2.5,$$
+535,Medium Rare,None,Washington, ,20008,(202) 237-1432,627,3.5,$$
+536,Justin’s Cafe,None,Washington, ,20003,(202) 652-1009,251,3.5,$$
+537,A-Town Bar & Grill,None,Arlington, ,22203,(703) 528-1110,408,3.5,$$
+538,Washington Pour Bar,None,Arlington, ,22202,(571) 350-9008,6,1.5,$$
+539,Firehook Bakery,None,Washington, ,20008,(888) 580-0745,168,3.0,$
+540,IOTA Club & Cafe,None,Arlington, ,22201,(703) 522-8340,191,4.0,$$
+541,Corner Bakery Cafe,None,Washington, ,20001,(202) 627-3139,64,3.0,$
+542,Amuse,None,Arlington, ,22209,(703) 351-1211,63,3.0,$$
+543,Blue 44 Restaurant & Bar,None,Washington, ,20015,(202) 362-2583,162,4.0,$$
+544,801 Restaurant & Bar,None,Washington, ,20001,(202) 332-0207,56,4.0,$$
+545,Bourbon,None,Washington, ,20009,(202) 332-0800,324,3.5,$$
+546,Article One - American Grill,None,Washington, ,20001,(202) 719-8478,56,3.5,$$
+547,Brookland Grill,None,Washington, ,20017,(202) 526-7419,43,3.5,$
+548,Penn Commons,None,Washington, ,20001,(202) 905-2999,194,3.5,$$
+549,Sora Ethiopian Market,None,Alexandria, ,22304,(703) 566-3855,14,4.5,$$
+550,Salt & Pepper,None,Washington, ,20016,(202) 364-5125,64,3.5,$$
+551,Terasol,None,Washington, ,20008,(202) 237-5555,86,4.0,$$
+552,Sculpture Garden Pavilion Cafe,None,Washington, ,20004,(202) 289-3360,91,3.5,$$
+553,Stone’s Throw Restaurant & Bar,None,Washington, ,20008,(202) 745-6920,38,3.0,$$
+554,Degrees,None,Washington, ,20007,(202) 912-4100,45,3.5,$$$
+555,Crepes Parfait,None,,None,None,(202) 455-4331,69,4.5,$
+556,Gordon Biersch Brewery Restaurant,None,Washington, ,20004,(202) 783-5454,554,3.0,$$
+557,The Front Page,None,Washington, ,20036,(202) 296-6500,590,3.0,$$
+558,Table Talk Restaurant,None,Alexandria, ,22314,(703) 548-3989,279,3.5,$
+559,Jojo Restaurant And Bar,None,Washington, ,20009,(202) 319-9350,352,4.0,$$
+560,Jojo Restaurant And Bar,None,Washington, ,20009,(202) 319-9350,352,4.0,$$
+561,McLean Family Restaurant,None,McLean, ,22101,(703) 356-9883,110,3.5,$$
+562,Mike & Sons Sub Shop,None,Rockville, ,20852,(301) 468-9066,98,4.0,$
+563,Rustico Restaurant & Bar,None,Arlington, ,22203,(571) 384-1820,597,3.5,$$
+564,IHOP,None,Alexandria, ,22312,(703) 658-2163,58,2.5,$
+565,Denny’s,None,College Park, ,20740,(301) 798-5699,52,2.5,$
+566,Petworth Citizen,None,Washington, ,20011,(202) 722-2939,138,3.5,$$
+567,William Jeffrey’s Tavern,None,Arlington, ,22204,(703) 746-6333,283,3.5,$$
+568,b DC Penn Quarter,None,Washington, ,20004,(202) 808-8720,640,4.0,$$
+569,IHOP,None,College Park, ,20740,(301) 982-7400,62,2.5,$$
+570,The Tombs,None,Washington, ,20007,(202) 337-6668,296,3.5,$$
+571,Asado Brasserie,None,Beltsville, ,20705,(301) 937-4422,2,4.0,
+572,Hawk n’ Dove,None,Washington, ,20003,(202) 547-0030,183,2.5,$$
+573,South Block,None,Arlington, ,22201,(703) 465-8423,252,4.0,$$
+574,Golden Corral,None,Largo, ,20774,(301) 324-6807,53,2.5,$$
+575,Mr. Henry’s,None,Washington, ,20003,(202) 546-8412,164,3.5,$$
+576,Cosmos Club,None,Washington, ,20008,(202) 387-7783,29,3.5,$$$
+577,Big Chair Coffee & Grill,None,Washington, ,20020,(202) 678-3738,53,3.5,$
+578,Jake’s American Grille,None,Washington, ,20008,(202) 966-5253,183,3.0,$$
+579,Maddy’s Bar & Grille,None,Washington, ,20009,(202) 483-2266,210,3.5,$$
+580,Corner Bakery Cafe,None,Bethesda, ,20817,(301) 469-8853,74,2.5,$$
+581,Neopol Savory Smokery,None,Washington, ,20002,(202) 543-1864,128,4.5,$$
+582,La Madeleine Country French Cafe,None,Bethesda, ,20814,(301) 215-9142,186,3.5,$$
+583,IHOP,None,Capitol Heights, ,20743,(301) 324-9003,60,2.5,$
+584,Dolcezza,None,Washington, ,20009,(202) 299-9116,463,4.0,$$
+585,Water & Wall,None,Arlington, ,22203,(703) 294-4949,296,4.0,$$
+586,Pennsylvania 6 DC,None,Washington, ,20005,(202) 796-1600,215,4.5,$$$
+587,Brookland Pint,None,Washington, ,20017,(202) 758-2757,160,3.5,$$
+588,Rockspring Cafe,None,Bethesda, ,20817,(301) 530-7522,3,2.5,$
+589,Philz Coffee,None,Washington, ,20009,(202) 601-7710,162,4.5,$$
+590,Jack’s Famous Deli,None,Lanham, ,20706,(301) 577-1169,13,3.0,$
+591,DC-Donuts,None,Washington, ,20003,,64,4.5,$
+592,Mosaic Cuisine & Cafe,None,Rockville, ,20852,(301) 468-0682,317,4.0,$$
+593,Penn Quarter Sports Tavern,None,Washington, ,20004,(202) 347-6666,279,3.0,$$
+594,Metro Cafeteria,None,Vienna, ,22180,(703) 560-2111,2,4.5,$
+595,Mr Smith’s of Georgetown,None,Washington, ,20007,(202) 333-3104,55,3.0,$$
+596,DC Grill Express,None,Washington, ,20009,(202) 748-5154,91,4.5,$
+597,Au Bon Pain,None,Washington, ,20005,(202) 639-0846,31,3.0,$
+598,Stoney’s Bar And Grill,None,Washington, ,20005,(202) 234-1818,388,3.5,$$
+599,Soho Tea & Coffee,None,Washington, ,20037,(202) 463-7646,265,3.5,$
+600,Soho Tea & Coffee,None,Washington, ,20037,(202) 463-7646,265,3.5,$
+601,Calabash,None,Washington, ,20001,(202) 525-5386,147,5.0,$
+602,Macintyre’s,None,Washington, ,20008,(202) 506-3427,95,4.0,$$
+603,Purple Patch,None,Washington, ,20010,(202) 299-0022,290,4.5,$$
+604,Po Boy Jim,None,Washington, ,20002,(202) 621-7071,355,4.0,$$
+605,Askale Cafe,None,Washington, ,20017,(202) 758-0077,73,4.5,$$
+606,Simple Bar & Grill,None,Washington, ,20011,(202) 316-9171,53,4.5,$$
+607,Bullfeathers,None,Washington, ,20003,(202) 484-0228,159,3.0,$$
+608,Montrose Deli,None,Rockville, ,20852,(301) 468-3050,5,3.5,
+609,Touché,None,Washington, ,20002,(202) 399-1123,21,2.0,$$
+610,Rustico,None,Alexandria, ,22314,(703) 224-5051,606,3.5,$$
+611,IHOP,None,Falls Church, ,22042,(703) 237-5191,55,3.0,$
+612,IHOP,None,Silver Spring, ,20902,(301) 942-2323,54,2.5,$$
+613,Chaia,None,Washington, ,20007,(202) 333-5222,247,4.5,$$
+614,Daily Grill,None,Washington, ,20036,(202) 822-5282,306,3.0,$$
+615,Sequoia,None,Washington, ,20007,(202) 944-4200,680,3.0,$$$
+616,IHOP,None,New Carrollton, ,20784,(301) 429-2088,26,2.5,$
+617,Radici,None,Washington, ,20003,(202) 758-0086,56,4.0,$
+618,Georgetown Bagelry,None,Bethesda, ,20816,(301) 657-4442,107,4.0,$
+619,Kingbird,None,Washington, ,20037,(202) 838-4471,25,4.5,$$$
+620,Occidental Grill & Seafood,None,Washington, ,20004,(202) 783-1475,257,3.5,$$$
+621,8407 Kitchen Bar,None,Silver Spring, ,20910,(301) 587-8407,528,3.5,$$
+622,Constitution Cafe,None,Washington, ,20002,(202) 216-9433,17,2.5,$$
+623,Tastee Diner,None,Bethesda, ,20814,(301) 652-3970,255,3.5,$
+624,Plume,None,Washington, ,20036,(202) 448-2300,156,4.0,$$$$
+625,Pleasant Pops Farmhouse Market & Cafe,None,Washington, ,20009,(202) 558-5224,280,4.5,$
+626,Nazret Express Eaterey,None,Falls Church, ,22041,(703) 347-9911,2,5.0,
+627,Dandy Restaurant Cruises,None,Alexandria, ,22314,(703) 683-6076,58,3.0,$$$$
+628,Cafe America,None,McLean, ,22102,(703) 848-1971,4,4.0,$
+629,IHOP,None,Greenbelt, ,20770,(301) 486-1234,73,2.5,$$
+630,IHOP,None,Forestville, ,20747,(301) 967-9300,25,2.0,$$
+631,Arlington Diner,None,Arlington, ,22206,(703) 549-0677,107,3.0,$
+632,The Grill Room,None,Washington, ,20007,(202) 617-2424,68,3.5,$$$
+633,Cleveland Park Bar and Grill,None,Washington, ,20008,(202) 806-8940,221,3.0,$$
+634,King Street Cafe,None,Alexandria, ,22314,(703) 549-3717,71,4.0,$
+635,Democracy Center Cafe,None,Bethesda, ,20817,(301) 530-0984,2,4.0,
+636,Fire & Sage,None,Washington, ,20005,(202) 661-8925,114,3.0,$$
+637,15 Ria,None,Washington, ,20005,(202) 742-0015,61,2.5,$$
+638,Bob Evans,None,Springfield, ,22150,(703) 644-6262,67,3.0,$$
+639,La Madeleine Country French Cafe,None,Falls Church, ,22041,(703) 379-5551,106,3.0,$$
+640,The Woodside Deli,None,Silver Spring, ,20910,(301) 589-7055,97,3.5,$
+641,Bracket Room,None,Arlington, ,22201,(703) 276-7337,366,3.5,$$
+642,West Wing Cafe,None,Washington, ,20036,(202) 628-2233,168,4.0,$
+643,EatsPlace,None,Washington, ,20010,(202) 882-3287,32,4.0,$$
+644,Zed’s Cafe,None,Silver Spring, ,20910,(301) 495-5614,195,4.5,$
+645,All Set Restaurant & Bar,None,Silver Spring, ,20910,(301) 495-8800,314,4.0,$$
+646,Galley Cafe,None,Falls Church, ,22042,(703) 560-2800,2,3.5,$
+647,Slate Wine Bar + Bistro,None,Washington, ,20007,(202) 333-4304,140,3.5,$$
+648,Avenue Cafe & Lounge,None,Washington, ,20005,(202) 349-3030,13,3.5,$$
+649,The Pub & The People,None,Washington, ,20002,(202) 234-1800,107,4.0,$$
+650,STK Washington D.C.,None,Washington, ,20036,(202) 296-1880,396,3.5,$$$
+651,minibar by José Andrés,None,Washington, ,20004,(202) 393-0812,256,4.5,$$$$
+652,MGM Roast Beef,None,Washington, ,20018,(202) 248-0389,177,4.5,$$
+653,Proof Restaurant,None,Washington, ,20001,(202) 737-7663,809,4.0,$$$
+654,Samantha’s Diner and Bakery,None,Silver Spring, ,20902,(301) 933-0998,13,2.0,$
+655,GCDC Grilled Cheese Bar,None,Washington, ,20006,(202) 393-4232,254,3.5,$$
+656,Peregrine Espresso,None,Washington, ,20003,(202) 629-4381,406,4.5,$
+657,Peet’s Coffee,None,Washington, ,20005,(202) 568-6644,59,3.5,$$
+658,Tysons Bagel Market,None,Vienna, ,22182,(703) 448-0080,172,4.0,$
+659,Tortoise & Hare Bar and Grille,None,Arlington, ,22202,(703) 979-1872,150,3.5,$$
+660,Columbia Firehouse,None,Alexandria, ,22314,(703) 683-1776,772,3.5,$$
+661,Meats & Foods,None,Washington, ,20001,(202) 505-1384,65,4.5,$
+662,Cafe Mozart,None,Washington, ,20005,(202) 347-5732,364,4.0,$$
+663,SUNdeVICH,None,Washington, ,20001,(202) 319-1086,456,4.0,$$
+664,Kefa Cafe,None,Silver Spring, ,20910,(240) 641-8023,128,4.5,$
+665,Olive’s,None,Rockville, ,20852,(301) 230-6727,2,5.0,$$$
+666,College Park Diner,None,College Park, ,20740,(301) 441-8888,173,4.0,$
+667,Un Je Ne Sais Quoi,None,Washington, ,20036,(202) 721-0099,174,4.5,$
+668,Nick’s Riverside Grill,None,Washington, ,20007,(202) 342-3535,261,2.5,$$
+669,New Heights Restaurant,None,Washington, ,20008,(202) 234-4110,154,3.5,$$$
+670,Garrison,None,Washington, ,20003,(202) 506-2445,120,3.5,$$$
+671,Stanton and Greene,None,Washington, ,20003,(202) 525-3325,64,3.5,$$
+672,Ventnor Sports Cafe,None,Washington, ,20009,(202) 234-3070,171,4.0,$$
+673,DC Wisey’s,None,Washington, ,20007,(202) 333-4122,266,3.5,$
+674,Olivia Macaron,None,Washington, ,20007,(202) 965-1000,272,4.0,$$
+675,Dolcezza,None,Washington, ,20007,(202) 333-0933,303,4.0,$$
+676,Saxbys Coffee,None,Washington, ,20007,(202) 338-3777,98,3.5,$
+677,Tenley Bar & Grill,None,Washington, ,20016,(202) 237-1783,63,3.5,$$
+678,RFD Washington,None,Washington, ,20001,(202) 289-2030,645,3.0,$$
+679,Twist Cafe & Deli,None,Falls Church, ,22041,(703) 998-2542,17,4.5,$
+680,Twist Cafe & Deli,None,Falls Church, ,22041,(703) 998-2542,17,4.5,$
+681,Krispy Kreme Doughnuts,None,Washington, ,20036,(202) 463-0414,168,3.5,$
+682,Silver Diner,None,Rockville, ,20852,(301) 770-2828,469,4.0,$$
+683,The Black Squirrel,None,Washington, ,20009,(202) 232-1011,287,3.5,$$
+684,Booeymonger,None,Washington, ,20015,(202) 686-5805,160,3.5,$
+685,21M Lounge,None,Washington, ,20036,(202) 530-3621,12,3.5,$$
+686,Vermilion,None,Alexandria, ,22314,(703) 684-9669,624,4.0,$$$
+687,Ramparts,None,Alexandria, ,22302,(703) 998-6616,164,3.5,$$
+688,Spring Mill Bread,None,Washington, ,20003,(202) 547-9190,111,3.5,$
+689,Urban Cafe - It’s Delicious!,None,Washington, ,20005,,2,3.0,
+690,Westend Bistro,None,Washington, ,20037,(202) 835-0500,258,3.5,$$$
+691,TAKODA Restaurant & Beer Garden,None,Washington, ,20001,(202) 525-1252,135,3.5,$$
+692,BRABO,None,Alexandria, ,22314,(703) 894-3440,369,4.0,$$$
+693,Dogwood Tavern,None,Falls Church, ,22046,(703) 237-8333,319,3.5,$$
+694,The Oval Room,None,Washington, ,20006,(202) 463-8700,261,3.5,$$$
+695,Eatbar,None,Washington, ,20003,(202) 847-4827,47,4.5,$$
+696,Emily’s Kitchen,None,Alexandria, ,22304,(703) 317-0288,,,
+697,IHOP,None,Clinton, ,20735,(301) 868-4356,28,2.5,$$
+698,Cafe Deluxe,None,McLean, ,22102,(703) 761-0600,303,3.5,$$
+699,Bobby’s Burger Palace,None,Washington, ,20037,(202) 974-6260,572,3.5,$$
+700,CRISP Kitchen + Bar,None,Washington, ,20001,(202) 853-9115,114,3.5,$$
+701,Langston Bar & Grille,None,Washington, ,20002,(202) 397-3637,165,2.5,$$
+702,Crepeaway,None,Washington, ,20036,(202) 973-0404,306,4.0,$
+703,Meridian Deli,None,Arlington, ,22202,(703) 417-1975,23,1.5,$
+704,Morrison-Clark Restaurant,None,Washington, ,20001,(202) 898-1200,21,4.0,$$
+705,Coffee Castle,None,Springfield, ,22150,,1,5.0,
+706,Fairfax Inn Restaurant,None,Falls Church, ,22044,(703) 532-0616,86,4.0,$
+707,Le Chat Noir,None,Washington, ,20050,(202) 244-2044,212,3.5,$$
+708,Grand Central,None,Washington, ,20009,(202) 986-1742,184,3.0,$$
+709,Fast Gourmet,None,Washington, ,20009,(202) 448-9217,530,4.0,$$
+710,Momofuku CCDC,None,Washington, ,20001,(202) 602-1832,826,3.5,$$
+711,Chequers Restaurant & Lounge,None,Alexandria, ,22314,(703) 683-6000,1,1.0,
+712,Jolt ‘N Bolt Coffee & Tea House,None,Washington, ,20009,,129,3.0,$
+713,Crepes On The Walk,None,Washington, ,20001,(202) 393-4910,153,4.0,$
+714,Paul,None,Washington, ,20036,(202) 524-4860,107,2.5,$$
+715,Bon Vivant Cafe,None,Alexandria, ,22301,(571) 290-3820,136,3.5,$$
+716,Potbelly Sandwich Shop,None,Washington, ,20017,(202) 971-3501,15,3.0,$
+717,Paisley Fig,None,Washington, ,20010,(202) 425-0525,9,4.0,$
+718,AG Kitchen,None,Silver Spring, ,20910,(301) 588-9400,283,3.0,$$
+719,Bareburger,None,Washington, ,20009,(202) 888-4582,131,3.5,$$
+720,Duality Espresso & Whiskey Bar,None,Washington, ,20009,(202) 506-7716,13,4.5,$$
+721,The Oceanaire Seafood Room,None,Washington, ,20004,(202) 347-2277,443,3.5,$$$
+722,Jack Rose Dining Saloon,None,Washington, ,20009,(202) 588-7388,505,3.5,$$
+723,Infuse Restaurant and Lounge,None,Temple Hills, ,20748,(301) 449-9000,69,3.5,$$
+724,Union Street Public House,None,Alexandria, ,22314,(703) 548-1785,361,3.5,$$
+725,Culture Coffee,None,Washington, ,20011,(202) 507-8349,30,4.5,$
+726,Redstone American Grill,None,National Harbor, ,20745,(301) 839-3330,444,3.0,$$
+727,Praline Bakery,None,Bethesda, ,20816,(301) 229-8180,107,3.5,$$
+728,Taylor Gourmet,None,Washington, ,20009,(202) 588-7117,180,3.0,$
+729,Emissary,None,Washington, ,20036,(202) 642-2603,24,4.5,$
+730,Mad Fox Taproom,None,Washington, ,20007,(202) 791-0389,41,3.5,$$
+731,DC Born & Raised,None,Washington, ,20010,(202) 882-3287,5,4.0,$$
+732,La Muterita,None,Hyattsville, ,20783,(301) 434-0064,,,$$
+733,American City Diner,None,Washington, ,20015,(202) 244-1949,177,2.5,$$
+734,Lindy’s Red Lion,None,Washington, ,20006,(202) 466-6000,188,3.5,$
+735,America Eats Tavern,None,McLean, ,22102,(703) 744-3999,183,3.5,$$$
+736,Copper Canyon Grill - Woodmore,None,Glenarden, ,20706,(301) 322-8600,298,3.5,$$
+737,Denny’s,None,Alexandria, ,22306,(703) 765-0171,57,2.5,$
+738,Blackwall Hitch,None,Alexandria, ,22314,(571) 982-3577,444,2.5,$$
+739,Essy’s Carriage House,None,Arlington, ,22207,(703) 525-7899,42,4.0,$$
+740,The Big Stick,None,Washington, ,20003,(202) 750-7724,89,3.5,$$
+741,Potbelly Sandwich Shop,None,Washington, ,20001,(202) 347-1266,22,3.5,$
+742,Society Fair,None,Alexandria, ,22314,(703) 683-3247,231,3.0,$$
+743,IHOP,None,Alexandria, ,22315,(703) 971-0051,45,3.0,$
+744,Sauciety,None,National Harbor, ,20745,(301) 567-3999,92,3.0,$$$
+745,Rebellion,None,Washington, ,20009,(202) 299-0399,136,3.5,$$
+746,True Food Kitchen,None,Fairfax, ,22031,(571) 326-1616,702,4.0,$$
+747,The Cheesecake Factory,None,Washington, ,20015,(202) 364-0500,249,3.0,$$
+748,Starbucks,None,Washington, ,20007,(202) 298-6822,32,3.5,$
+749,Mocha Cafe & Pastry,None,Arlington, ,22201,(703) 527-2121,133,4.0,$
+750,Junction Bakery & Bistro,None,Alexandria, ,22301,(703) 739-2424,74,3.0,$$
+751,Anita’s New Mexico Style Mexican Food,None,Springfield, ,22151,(571) 297-4666,9,3.5,$
+752,Barrel & Bushel,None,Tysons Corner, ,22102,(703) 848-6340,333,3.0,$$
+753,Lucky’s Grill,None,Capitol Heights, ,20743,(301) 336-1551,53,4.0,$
+754,Virtue Feed & Grain,None,Alexandria, ,22314,(571) 970-3669,1034,3.5,$$
+755,Summers Restaurant,None,Arlington, ,22201,(703) 528-8278,121,2.5,$$
+756,The Front Page,None,Arlington, ,22203,(703) 248-9990,214,2.5,$$
+757,Marble & Rye,None,Arlington, ,22204,(703) 920-0706,56,3.5,$$
+758,Ragtime,None,Arlington, ,22201,(703) 243-4003,192,3.5,$$
+759,Sugar Shack Donuts,None,Alexandria, ,22314,(703) 577-9023,595,4.0,$
+760,Bearnaise,None,Washington D.C, ,20003,(202) 450-4800,238,3.5,$$$
+761,Penn Grill,None,Washington, ,20006,(202) 296-0620,123,4.5,$
+762,D J Deli,None,Mc Lean, ,22102,(703) 761-1212,1,4.0,$
+763,Mad Fox Brewing Company,None,Falls Church, ,22046,(703) 942-6840,804,3.5,$$
+764,Summer House Santa Monica,None,North Bethesda, ,20852,(301) 881-2381,386,3.5,$$
+765,Harth,None,McLean, ,22102,(703) 761-5131,173,3.5,$$$
+766,Succotash,None,National Harbor, ,20745,(301) 567-8900,432,4.0,$$
+767,Cinnabar,None,Arlington, ,22202,(703) 418-1234,27,2.5,$$
+768,Cowboy Cafe,None,Arlington, ,22207,(703) 243-8010,106,3.5,$$
+769,Modern Market,None,Rockville, ,20852,(301) 603-2953,,,
+770,Modern Market,None,Rockville, ,20852,(301) 603-2953,,,
+771,M’s Deli & Market,None,Arlington, ,22203,(703) 465-2920,,,
+772,Filter Coffeehouse & Espresso Bar,None,Washington, ,20009,(202) 234-5837,451,4.0,$$
+773,Skylight Cafe,None,Falls Church, ,22042,(703) 776-2544,4,2.5,$
+774,Peet’s Coffee,None,Washington, ,20036,(202) 480-2003,38,3.5,$
+775,Black’s Bar & Kitchen,None,Bethesda, ,20814,(301) 652-5525,434,4.0,$$$
+776,Clyde’s of Chevy Chase,None,Chevy Chase, ,20815,(301) 951-9600,283,3.0,$$
+777,Black Market Bistro,None,Garrett Park, ,20896,(301) 933-3000,243,4.0,$$$
+778,St Elmo’s Coffee Pub,None,Alexandria, ,22301,(703) 739-9268,208,3.5,$
+779,Arlington Rooftop Bar and Grill,None,Arlington, ,22201,(703) 528-3030,235,3.0,$$
+780,The Light Horse,None,Alexandria, ,22314,(703) 549-0533,256,3.5,$$
+781,AHRA Cafe & Sandwich Bar,None,Arlington, ,22209,(703) 522-2224,38,4.0,$
+782,Caboose Cafe,None,Alexandria, ,22301,(703) 566-1283,143,4.0,$
+783,Barnside Diner,None,Alexandria, ,22312,(703) 256-3318,240,3.5,$
+784,Sweet & Natural,None,Mount Rainier, ,20712,(301) 277-9338,108,4.5,$$
+785,Park Avenue Cafe,None,Falls Church, ,22042,(703) 207-9737,5,2.0,$
+786,"WILDFIRE-STEAK, CHOPS & SEAFOOD-HERNDON, VA",None,McLean, ,22102,(703) 442-9110,599,3.5,$$$
+787,Siné Irish Pub & Restaurant,None,Arlington, ,22202,(703) 415-4420,261,3.0,$$
+788,Paul,None,Bethesda, ,20814,(301) 656-3285,86,2.5,$$
+789,Philz Coffee,None,Washington, ,20003,(202) 506-3855,72,4.0,$$
+790,Mason Social,None,Alexandria, ,22314,(703) 548-8800,209,3.5,$$
+791,Starbucks,None,Washington, ,20001,(202) 681-5173,16,2.0,$$
+792,Cheesetique,None,Arlington, ,22203,(703) 566-9189,37,3.5,$$
+793,Barley Mac,None,Arlington, ,22209,(703) 372-9494,187,4.0,$$
+794,LeoNora Bakery,None,Arlington, ,22201,(571) 527-0445,149,4.5,$$
+795,Fresh Gourmet,None,McLean, ,22102,(703) 856-1544,,,
+796,Tony & Joe’s Seafood Place,None,Washington, ,20007,(202) 944-4545,291,3.0,$$$
+797,Lilit Cafe,None,Bethesda, ,20814,(301) 654-5454,167,4.5,$
+798,Dolcezza,None,Washington, ,20005,(202) 817-3900,150,3.5,$$
+799,DGS Delicatessen,None,Fairfax, ,22031,(703) 280-1111,124,4.0,$$
+800,DGS Delicatessen,None,Fairfax, ,22031,(703) 280-1111,124,4.0,$$
+801,Pizzeria Paradiso,None,Washington, ,20007,(202) 337-1245,628,3.5,$$
+802,San Miguel Cafe,None,Springfield, ,22150,(703) 451-7500,,,
+803,Foxfire Grill,None,Alexandria, ,22312,(703) 914-9280,130,3.5,$$
+804,Courthaus Social,None,Arlington, ,22201,(703) 243-4900,148,3.5,$$
+805,Silverado,None,Annandale, ,22003,(703) 354-4560,278,4.0,$$
+806,Bump ‘n Grind,None,Silver Spring, ,20910,(301) 588-8000,137,4.0,$
+807,Old Glory BBQ,None,Washington, ,20007,(202) 337-3406,451,3.0,$$
+808,Silver Diner,None,Springfield, ,22150,(703) 924-1701,253,3.5,$$
+809,Heckman’s Delicatessen,None,Bethesda, ,20814,(240) 800-4879,204,3.5,$$
+810,Indigo Landing,None,Alexandria, ,22314,(703) 548-0001,199,3.0,$$
+811,Tropical Smoothie Cafe,None,Alexandria, ,22314,(703) 299-8315,72,4.5,$
+812,Bread & Water Co,None,Alexandria, ,22307,(703) 768-0100,132,3.5,$$
+813,La Madeleine Country French Cafe,None,Rockville, ,20852,(240) 292-6056,42,3.5,$
+814,President’s Sports Bar,None,Washington, ,20001,(202) 898-9000,33,3.0,$$
+815,Mussel Bar & Grille,None,Arlington, ,22203,(703) 841-2337,373,3.5,$$
+816,Mylo’s Grill,None,McLean, ,22101,(703) 533-5880,74,4.0,$$
+817,Villain & Saint,None,Bethesda, ,20814,(240) 800-4700,57,3.5,$$
+818,Ashlar Restaurant and Bar,None,Alexandria, ,22314,(703) 894-6345,17,4.5,$$$
+819,Cheesetique,None,Alexandria, ,22301,(703) 706-5300,535,4.5,$$
+820,Franklin’s,None,Hyattsville, ,20781,(301) 927-2740,479,4.0,$$
+821,FDB Eatery,None,Falls Church, ,22042,(703) 534-4200,93,4.0,$$
+822,Redwood Restaurant and Bar,None,Bethesda, ,20814,(301) 656-5515,380,3.0,$$$
+823,Capitol City Brewing Company,None,Arlington, ,22206,(703) 578-3888,358,3.0,$$
+824,Shortcake Bakery,None,Hyattsville, ,20781,(301) 779-2836,79,4.5,$
+825,Cityhouse,None,Arlington, ,22209,(703) 276-8999,38,2.5,$$
+826,Heavy Seas Alehouse,None,Arlington, ,22209,(703) 879-4388,279,3.5,$$
+827,Italian Kitchen On U,None,Washington, ,20009,(202) 387-4992,214,3.0,$
+828,T.J. Stone’s,None,Alexandria, ,22314,(703) 548-1004,323,3.5,$$
+829,Chef Geoff’s Tysons Corner,None,Vienna, ,22182,(571) 282-6003,399,3.5,$$
+830,Spider Kelly’s,None,Arlington, ,22201,(703) 312-8888,358,3.0,$$
+831,Persimmon Restaurant,None,Chevy Chase, ,20815,(301) 654-9860,109,3.5,$$$
+832,Buzz Bakeshop,None,Arlington, ,22217,(703) 650-9676,292,3.5,$$
+833,Cafe Sazon,None,Arlington, ,22204,(703) 566-1686,59,4.5,$
+834,Oz Restaurant and Bar,None,Arlington, ,22201,(703) 664-0693,173,3.5,$$
+835,The Cheesecake Factory,None,Arlington, ,22201,(703) 294-9966,282,3.0,$$
+836,The Limerick Pub,None,Wheaton, ,20902,(301) 946-3232,127,4.0,$$
+837,Earl’s Sandwiches,None,Arlington, ,22203,(703) 647-9191,120,4.0,$
+838,Daily Grill,None,Bethesda, ,20814,(301) 656-6100,107,3.0,$$
+839,Barrel and Crow,None,Bethesda, ,20814,(240) 800-3253,119,3.5,$$
+840,Barrel and Crow,None,Bethesda, ,20814,(240) 800-3253,119,3.5,$$
+841,Sonoma Cellar,None,Alexandria, ,22314,(703) 966-3550,91,4.0,$$
+842,Killer ESP,None,Alexandria, ,22314,(703) 200-3200,528,4.5,$
+843,Jasper’s,None,Upper Marlboro, ,20774,(301) 883-9500,153,3.0,$$
+844,Panera Bread,None,Washington, ,20010,(202) 588-8591,64,3.0,$
+845,Trademark Drink And Eat,None,Alexandria, ,22314,(703) 253-8640,122,3.5,$$
+846,Old Georgetown Grille,None,Bethesda, ,20814,(301) 652-0808,53,3.5,$
+847,Matchbox - Merrifield,None,Fairfax, ,22031,(571) 395-4869,574,4.0,$$
+848,Lia’s,None,Chevy Chase, ,20815,(240) 223-5427,230,3.5,$$
+849,Nick’s Diner,None,Wheaton, ,20902,(301) 933-5459,121,4.0,$
+850,Brickside Food & Drink,None,Bethesda, ,20814,(301) 312-6160,148,3.5,$$
+851,Toscana,None,Washington, ,20002,(202) 525-2693,212,3.5,$$
+852,Clarendon Grill,None,Arlington, ,22201,(703) 524-7455,177,3.0,$$
+853,Around the Clock Chicken and Fish,None,Capitol Heights, ,20743,(240) 532-7776,39,4.0,$
+854,Emma’s Espresso and Wine Bar,None,Alexandria, ,22301,(571) 431-6150,53,3.5,$$
+855,Bastille,None,Alexandria, ,22314,(703) 519-3776,132,3.5,$$$
+856,The Society Lounge,None,Silver Spring, ,20910,(301) 565-8864,267,3.0,$$
+857,Gadsby’s Tavern Restaurant,None,Alexandria, ,22314,(703) 548-1288,215,3.5,$$
+858,Copper Canyon Grill,None,Silver Spring, ,20910,(301) 589-1330,443,3.5,$$
+859,Sweet Leaf,None,Arlington, ,22203,(703) 527-0807,61,4.5,$
+860,Wagshal’s,None,Washington, ,20016,(202) 363-5698,134,3.0,$$
+861,Bilbo Baggins,None,Alexandria, ,22314,(703) 683-0300,451,3.0,$$
+862,Clyde’s of Tysons Corner,None,Vienna, ,22182,(703) 734-1901,291,3.0,$$
+863,Mad Rose Tavern,None,Arlington, ,22201,(703) 600-0500,232,3.0,$$
+864,Bell20,None,Arlington, ,22202,(703) 413-6520,22,2.5,$$
+865,Manchester Bagel,None,Alexandria, ,22310,(703) 313-0708,68,4.0,$
+866,The Majestic,None,Alexandria, ,22314,(703) 837-9117,76,4.5,$$
+867,Buzz Bakeshop,None,Alexandria, ,22314,(703) 600-2899,569,3.5,$$
+868,Irie at Woodmore,None,Glenarden, ,20706,(301) 386-4777,128,2.5,$$
+869,Ray’s The Steaks,None,Arlington, ,22201,(703) 841-7297,1455,4.0,$$$
+870,Fort Myer Officers’ Club,None,Arlington, ,22211,(703) 524-0200,10,4.0,$$$$
+871,Laporta’s Restaurant,None,Alexandria, ,22314,(703) 683-6313,182,3.5,$$
+872,Shilla Bakery,None,Annandale, ,22003,(703) 333-2001,550,3.5,$
+873,Joe Theismann’s Restaurant,None,Alexandria, ,22314,(703) 739-0777,316,3.5,$$
+874,Shilla Bakery,None,McLean, ,22102,(703) 388-2880,80,4.0,$
+875,The Board and Brew,None,College Park, ,20740,(240) 542-4613,141,4.0,$$
+876,Earls Kitchen + Bar,None,McLean, ,22102,(703) 847-1870,406,3.5,$$
+877,GRAPE + BEAN,None,Alexandria, ,22314,(703) 664-0214,254,4.0,$$
+878,Lost Dog Cafe,None,Arlington, ,22204,(703) 553-7770,493,4.0,$$
+879,Daniel O’Connell’s Restaurant & Bar,None,Alexandria, ,22314,(703) 739-1124,381,3.5,$$
+880,John Strongbow’s Tavern,None,Alexandria, ,22314,(703) 836-4000,173,3.0,$$
+881,Dogfish Head Alehouse,None,Falls Church, ,22044,(703) 534-3342,537,4.0,$$
+882,Roma Bakery Cafe,None,Rockville, ,20852,(301) 230-6508,,,
+883,Sweet Fire Donna’s,None,Alexandria, ,22314,(571) 312-7960,410,4.0,$$
+884,Sehkraft Brewing,None,Arlington, ,22201,(571) 341-5531,169,3.0,$$
+885,BURGERFI,None,Silver Spring, ,20910,(301) 565-2100,191,3.5,$$
+886,Meritage,None,Bethesda, ,20852,(301) 822-9234,17,4.0,$$$
+887,La Madeleine,None,Alexandria, ,22315,(571) 385-2455,77,3.0,$$
+888,Bar Louie,None,Arlington, ,22202,(571) 302-7420,157,2.5,$$
+889,Tango Pastry,None,Alexandria, ,22303,(703) 477-2577,58,4.5,$
+890,Celebrity Delly,None,Falls Church, ,22042,(703) 573-9002,189,3.5,$$
+891,Fishnet,None,College Park, ,20740,(301) 220-1070,196,4.0,$$
+892,Panera Bread,None,Alexandria, ,22314,(703) 236-2789,24,3.5,$
+893,City Perch,None,North Bethesda, ,20852,(301) 231-2310,325,4.0,$$
+894,2941 Restaurant,None,Falls Church, ,22042,(703) 270-1500,598,4.0,$$$
+895,Rock Bottom Restaurant & Brewery,None,Bethesda, ,20814,(301) 652-1311,304,3.0,$$
+896,"Old Line Fine Wine, Spirits & Bistro",None,Beltsville, ,20705,(301) 937-6999,162,4.0,$$
+897,American Tap Room,None,Bethesda, ,20814,(301) 656-1366,365,2.5,$$
+898,Restaurant Eve,None,Alexandria, ,22314,(703) 706-0450,516,4.0,$$$$
+899,La Fromagerie,None,Alexandria, ,22314,(703) 879-2467,114,4.0,$$
+900,Wildwood Kitchen by Robert Wiedmaier,None,Bethesda, ,20814,(301) 571-1700,124,3.5,$$$
+901,Santini’s New York Style Deli,None,McLean, ,22101,(703) 748-7777,61,3.0,$
+902,Colette’s Cafe,None,Greenbelt, ,20770,(301) 474-2042,2,5.0,
+903,4935 Bar and Kitchen,None,Bethesda, ,20814,(301) 951-4935,172,4.0,$$
+904,Wild Tomato,None,Cabin John, ,20818,(301) 229-0680,116,3.5,$$
+905,Bobby’s Burger Palace,None,College Park, ,20740,(240) 542-4702,211,3.0,$$
+906,Shady Oaks Inn,None,District Heights, ,20747,(301) 736-0200,4,4.5,$$
+907,Thirsty Bernie,None,Arlington, ,22207,(703) 248-9300,138,2.5,$$
+908,Star Nut Gourmet,None,McLean, ,22101,(703) 749-9090,32,3.5,$$
+909,Grounded Coffee Shop,None,Alexandria, ,22310,(703) 341-6612,165,4.5,$
+910,Panera Bread,None,Beltsville, ,20705,(301) 931-6707,28,3.5,$$
+911,Panera Bread,None,Alexandria, ,22306,(703) 768-8793,62,3.0,$
+912,Alley Cat,None,Alexandria, ,22304,(703) 461-0450,75,3.0,$$
+913,Idylwood Grill & Wine Bar,None,Falls Church, ,22043,(703) 992-0915,119,4.0,$$$
+914,Rock It Grill,None,Alexandria, ,22314,(703) 739-2274,210,3.0,$$
+915,TJ’s of Calverton,None,Beltsville, ,20705,(301) 572-7117,47,3.5,$$
+916,Peet’s Coffee,None,Bethesda, ,20814,(240) 204-6830,46,4.0,$
+917,Olde Towne Inn,None,Upper Marlboro, ,20774,,38,2.0,$$
+918,Mike’s American Grill,None,Springfield, ,22150,(703) 644-7100,1051,4.5,$$
+919,JukeBox Diner,None,Annandale, ,22003,(703) 916-8300,110,3.5,$
+920,Caddies On Cordell,None,Bethesda, ,20814,(301) 215-7730,140,3.5,$$
+921,Kilroy’s,None,Springfield, ,22151,(703) 321-7733,144,3.0,$$
+922,Open Road Grill,None,Falls Church, ,22042,(571) 395-4400,255,4.0,$$
+923,Blackfinn Ameripub,None,Merrifield, ,22180,(703) 207-0100,342,3.5,$$
+924,Fire Station 1,None,Silver Spring, ,20910,(301) 585-1370,413,2.5,$$
+925,Pastry Xpo,None,Falls Church, ,22042,(571) 282-4970,267,3.5,$$
+926,Panera Bread,None,Silver Spring, ,20910,(301) 495-0860,71,3.5,$
+927,Booeymonger,None,Arlington, ,22201,(703) 894-2170,80,3.0,$
+928,La Madeleine French Bakery & Cafe,None,McLean, ,22102,(703) 962-1260,165,3.0,$$
+929,J’Ollies Restaurant,None,Lanham, ,20706,(301) 577-3073,11,2.0,$$
+930,Cadillac Ranch,None,Oxon Hill, ,20745,(301) 839-1100,460,2.5,$$
+931,Sea Pearl Restaurant & Lounge,None,Falls Church, ,22042,(703) 372-5161,327,3.5,$$$
+932,Tower Oaks Lodge,None,Rockville, ,20852,(301) 294-0200,515,3.5,$$
+933,Stanford Grill,None,Rockville, ,20852,(240) 582-1000,135,4.0,$$$
+934,Sweetwater Tavern,None,Falls Church, ,22042,(703) 645-8100,660,4.0,$$
+935,Brine,None,Fairfax, ,22031,(703) 280-1000,227,3.5,$$
+936,Portabellos,None,Arlington, ,22207,(703) 528-1557,38,3.0,$$
+937,The Cheesecake Factory,None,McLean, ,22102,(703) 506-9311,320,3.0,$$
+938,Mom & Pop Coffee Shop,None,Fairfax, ,22031,(703) 992-8701,106,3.5,$$
+939,The Cheesecake Factory,None,Bethesda, ,20817,(301) 469-5166,270,3.0,$$
+940,Crave,None,Bethesda, ,20817,(301) 469-9600,194,3.0,$$
+941,Moe’s Peyton Place,None,Springfield, ,22150,(703) 451-6620,33,3.5,$
+942,Anthony’s Restaurant,None,Falls Church, ,22042,(703) 532-0100,91,3.5,$$
+943,Mica’s Restaurant,None,Silver Spring, ,20910,(301) 589-0800,10,2.5,$$
+944,American Girl DC,None,McLean, ,22102,(877) 247-5223,45,3.0,$$$
+945,Ellipse Restaurant,None,Falls Church, ,22042,(703) 849-9400,12,3.0,$$
+946,Jason’s Deli,None,Falls Church, ,22043,(703) 448-5514,181,4.0,$
+947,Einstein Bros,None,Springfield, ,22152,(703) 913-6175,38,2.5,$
+948,Vie De France Bakery Cafe,None,Potomac, ,20854,(301) 299-0904,54,3.5,$
+949,Houlihan’s,None,Springfield, ,22150,(703) 971-8809,84,3.0,$$
+950,DRP Belle Haven Pizzeria,None,Alexandria, ,22307,(703) 765-5300,79,3.5,$$
+951,Breeze Bakery Cafe,None,Annandale, ,22003,(703) 462-9093,565,4.0,$
+952,Grevey’s Restaurant & Sports Bar,None,Falls Church, ,22042,(703) 560-8530,163,3.0,$$
+953,Panera Bread,None,Alexandria, ,22312,(703) 658-5204,65,2.5,$
+954,Mister Days Sport Rock Cafe,None,Arlington, ,22201,(703) 527-1600,219,2.5,$$
+955,iPic Theaters,None,North Bethesda, ,20852,(301) 231-2300,531,3.5,$$
+956,Gordon Biersch Brewery Restaurant,None,Mclean, ,22102,(703) 388-5454,392,3.0,$$
+957,Topgolf,None,Alexandria, ,22315,(703) 924-2600,377,3.5,$$
+958,HoneyBaked Ham,None,Falls Church, ,22046,(703) 556-4455,18,2.5,$$
+959,Bungalow Sports Grill,None,Alexandria, ,22310,(703) 924-8730,96,3.0,$$
+960,Hunter’s Bar and Grill,None,Potomac, ,20854,(301) 299-9300,45,3.0,$$
+961,Yard House,None,Springfield, ,22150,(703) 924-7345,651,3.5,$$
+962,Panera Bread,None,West Springfield, ,22152,(703) 644-2259,53,2.5,$
+963,Marketplace Café,None,Bethesda, ,20817,(301) 765-3042,41,3.5,$$
+964,Angelika Film Center & Cafe at Mosaic,None,Fairfax, ,22031,(571) 512-3301,307,4.0,$$
+965,Red Apron Butcher,None,Fairfax, ,22031,(703) 676-3550,205,4.0,$$
